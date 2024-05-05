@@ -1,4 +1,4 @@
-# Your Project Name
+# Import Excel Data Into MYSQL Database
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D%207.2-8892BF.svg)](https://www.php.net/)
@@ -19,7 +19,7 @@ Briefly describe what your project does and its main features.
 2. Navigate to the project directory:
 
     ```bash
-    cd yourproject
+    cd import-excel-data-into-mysql-database
     ```
 
 3. Install dependencies using Composer:
